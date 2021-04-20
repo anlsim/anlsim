@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Andrea Simental
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React, Redux and Hooks
+-  I’m currently working for Impakter as a FrontEnd Development
+- 🌱 I’m currently learning React and Vue
+- 💻 All of my projects are available at https://anlsim.github.io/
 
 <!---
 anlsim/anlsim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
