@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrea Simental
 -  I’m currently working for D2 Seattle as a Junior Developer
-- 🌱 I’m currently learning React and Vue
+- 🌱 I’m currently learning Next.Js and Typescript
 - 💻 All of my projects are available at https://anlsim.github.io/
 
 <!---
